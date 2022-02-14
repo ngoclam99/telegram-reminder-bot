@@ -2,7 +2,7 @@
 <p align="center">A telegram reminder bot that reminds you of anything in time!<p>
 
 <p align="center">
-<a hred="github/forks/simonfarah/telegram-reminder-bot">
+<a href="github/forks/simonfarah/telegram-reminder-bot">
 <img src="https://img.shields.io/badge/telegram bot-0088CC?&style=for-the-badge&logo=telegram">
 
 <img src="https://img.shields.io/badge/python-FFD43B?&style=for-the-badge&logo=python">
