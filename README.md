@@ -19,8 +19,6 @@
 <img src="https://img.shields.io/badge/maintained-yes-0088CC?&style=flat-square">
 </p>
 
-See it working [here](https://t.me/simonfarah_bot)
-
 ## Requirements
 * You must have python installed (of course)
 * You must install the following module
