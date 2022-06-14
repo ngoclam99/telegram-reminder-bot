@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/github/forks/simonfarah/telegram-reminder-bot?color=0088CC&style=flat-square">
 <img src="https://img.shields.io/github/stars/simonfarah/telegram-reminder-bot?color=0088CC&style=flat-square">
 <img title="Forks" src="https://img.shields.io/github/followers/simonfarah?color=0088CC&style=flat-square">
-<img src="https://img.shields.io/badge/maintained-yes-0088CC?&style=flat-square">
+<img src="https://img.shields.io/badge/maintained-no-0088CC?&style=flat-square">
 </p>
 
 ## Requirements
