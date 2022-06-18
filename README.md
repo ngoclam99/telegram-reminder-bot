@@ -31,6 +31,3 @@
 3. Copy the Bot Access Token.
 4. Open the main.py file using any text editor, go down to line 440 and paste your token there.
 5. Save the file and run the script!
-
-## Support My Work
-<a href="https://www.buymeacoffee.com/simonfarah" target="blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
