@@ -1,7 +1,5 @@
 ## Telegram Reminder Bot
 
-Check the demo [here](https://t.me/sf_reminder_bot/)
-
 ### Requirements
 
 - Python 3.x
