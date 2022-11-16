@@ -1,5 +1,7 @@
 import json
 from datetime import datetime, timedelta
+import os
+from dotenv import load_dotenv
 
 from telegram import (
     ReplyKeyboardMarkup,
@@ -15,6 +17,7 @@ from telegram.ext import (
     ConversationHandler,
 )
 
+load_dotenv()
 
 main_keyboard = [
     ["➕ Add Reminder", "➖ Delete History"],
@@ -437,7 +440,7 @@ def notify(context):
 
 
 def main():
-    BOT_TOKEN = "YOUR TOKEN HERE"
+    BOT_TOKEN = os.getenv('BOT_TOKEN')
     updater = Updater(BOT_TOKEN, use_context=True)
     dp = updater.dispatcher
 
